@@ -1,6 +1,6 @@
 name: acquisitionuniverse
 description: Dart toolkit for acquisition target screening, with thesis briefs, a weighted composite score that zeroes out group-owned targets, ranking and signal coverage.
-version: 1.0.0
+version: 1.0.1
 homepage: https://www.acquisitionuniverse.com
 repository: https://github.com/explainableaixai/acquisitionuniverse-dart
 issue_tracker: https://github.com/explainableaixai/acquisitionuniverse-dart/issues
